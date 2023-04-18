@@ -1,2 +1,2 @@
 # gravity-enabler
-Enables gravity in the IDE. The code is messy (for now).
+Enables gravity in the IDE. Comes with awfully messy code.
