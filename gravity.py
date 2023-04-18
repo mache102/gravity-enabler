@@ -105,7 +105,7 @@ class Gravity:
                     f.write(''.join(line) + '\n')
 
             tt = (1/self.fps) - (time.perf_counter() - t1)
-            print(f'{(tt * 1000):.4f} ms left')
+            #print(f'{(tt * 1000):.4f} ms left')
             if tt > 0:
                 time.sleep(tt)
 
